@@ -42,7 +42,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/conference-ticket-generator)
-- Live Site URL: [Conference Ticket Generator](https://conference-ticket-generator.vercel.app)
+- Live Site URL: [Conference Ticket Generator](https://conference-ticket-generator-gilt.vercel.app/)
 
 ## My process
 
