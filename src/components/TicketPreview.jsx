@@ -6,7 +6,7 @@ const TicketPreview = ({ formData, file }) => {
     <div className="max-w-md mx-auto mt-6 text-center flex flex-col justify-center items-center">
       <h1 className="text-4xl font-800">
         Congrats,{" "}
-        <span className="bg-gradient-to-r from-gradientTextStart to-gradientTextStop bg-clip-text font-extrabold text-transparent">
+        <span className="text-custom-orange-700 font-800">
           {formData.fullname}!
         </span>{" "}
         Your ticket is ready
